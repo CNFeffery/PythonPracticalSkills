@@ -1,0 +1,110 @@
+attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
+bleach==3.3.0
+branca @ file:///home/conda/feedstock_root/build_artifacts/branca_1609346930842/work
+Brotli==1.0.9
+brotlipy @ file:///D:/bld/brotlipy_1636012439160/work
+certifi==2021.10.8
+cffi @ file:///D:/bld/cffi_1636046306023/work
+chardet==4.0.0
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1638815705608/work
+click==8.0.1
+click-plugins==1.1.1
+cligj @ file:///home/conda/feedstock_root/build_artifacts/cligj_1633637764473/work
+colorama==0.4.4
+cryptography @ file:///D:/bld/cryptography_1637649123707/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+dash==2.0.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+decorator==5.1.0
+Django==3.1.6
+docopt==0.6.2
+docutils==0.17.1
+et-xmlfile==1.1.0
+Faker==8.14.0
+feffery-antd-charts==0.0.1rc2
+feffery-antd-components @ git+https://github.com/CNFeffery/feffery-antd-components.git@6aaba1151c4a5fc5f421618504562c03610dd682
+feffery-utils-components @ git+https://github.com/CNFeffery/feffery-utils-components.git@499d7d7cff0b2b6e0749660d69c05c7bb2c60576
+Fiona==1.8.13.post1
+Flask==2.0.1
+Flask-Compress==1.10.1
+Flask-Cors==3.0.10
+Flask-Login==0.5.0
+folium @ file:///home/conda/feedstock_root/build_artifacts/folium_1638560701663/work
+fonttools @ file:///D:/bld/fonttools_1638544580851/work
+funcy==1.16
+GDAL==3.0.2
+GeoAlchemy2==0.9.4
+geopandas @ file:///home/conda/feedstock_root/build_artifacts/geopandas_1638382567988/work
+greenlet==1.1.2
+gunicorn==20.1.0
+idna==2.10
+image==1.5.33
+importlib-metadata==4.8.1
+itsdangerous==2.0.1
+jieba==0.42.1
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1636510082894/work
+joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1633637554808/work
+jsonpath-ng==1.5.3
+keyring==23.0.1
+kiwisolver @ file:///D:/bld/kiwisolver_1635836925049/work
+mapclassify @ file:///home/conda/feedstock_root/build_artifacts/mapclassify_1627363180059/work
+MarkupSafe @ file:///D:/bld/markupsafe_1635833748820/work
+matplotlib @ file:///D:/bld/matplotlib-suite_1639359207070/work
+munch==2.5.0
+munkres==1.1.4
+networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1635253012265/work
+numpy @ file:///D:/bld/numpy_1636145475359/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+openpyxl==3.0.9
+packaging==20.9
+palettable==3.3.0
+pandas @ file:///D:/bld/pandas_1639398349358/work
+peewee==3.14.8
+Pillow @ file:///D:/bld/pillow_1636559064986/work
+pipreqs==0.4.11
+pkginfo==1.8.2
+plotly==5.3.1
+ply==3.11
+psycopg2==2.9.2
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+Pygments==2.9.0
+pymongo==4.0.1
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1633192417276/work
+pyparsing==2.4.7
+pyproj==3.0.0.post1
+PySocks @ file:///D:/bld/pysocks_1635862618120/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+pywin32-ctypes==0.2.0
+PyYAML==5.3.1
+qrcode==6.1
+readme-renderer==29.0
+requests==2.25.1
+requests-toolbelt==0.9.1
+rfc3986==1.5.0
+Rtree==0.9.7
+scikit-learn @ file:///D:/bld/scikit-learn_1639497841813/work
+scipy @ file:///C:/bld/scipy_1637806996411/work
+seaborn==0.11.2
+Shapely==1.7.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+SQLAlchemy==1.4.28
+sqlparse==0.4.1
+tenacity==8.0.1
+text-unidecode==1.3
+textrank4zh==0.3
+threadpoolctl @ file:///home/conda/feedstock_root/build_artifacts/threadpoolctl_1633102299089/work
+tqdm==4.62.3
+twine==3.7.1
+typing-extensions==3.10.0.2
+unicodedata2 @ file:///D:/bld/unicodedata2_1637177797776/work
+urllib3==1.26.4
+webencodings==0.5.1
+Werkzeug==2.0.1
+win-inet-pton @ file:///D:/bld/win_inet_pton_1635832912576/work
+wincertstore==0.2
+xyzservices @ file:///home/conda/feedstock_root/build_artifacts/xyzservices_1638470968221/work
+yarg==0.1.9
+zipp==3.5.0
