@@ -8,3 +8,4 @@
 - [「Python实用秘技01」复杂zip文件的解压](https://www.cnblogs.com/feffery/p/15668669.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技01」复杂zip文件的解压)
 - [「Python实用秘技02」给Python函数定“闹钟”](https://www.cnblogs.com/feffery/p/15676516.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技02」给Python函数定“闹钟”)
 - [「Python实用秘技03」导出项目的极简环境依赖](https://www.cnblogs.com/feffery/p/15712273.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技03」导出项目的极简环境依赖)
+- [「Python实用秘技04」为pdf文件批量添加文字水印](https://www.cnblogs.com/feffery/p/15827573.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技04」为pdf文件批量添加文字水印)
