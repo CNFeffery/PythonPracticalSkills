@@ -12,3 +12,4 @@
 - [「Python实用秘技05」在Python中妙用短路机制](https://www.cnblogs.com/feffery/p/15906089.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技05」在Python中妙用短路机制)
 - [「Python实用秘技06」逐行监听Python程序的内存消耗](https://www.cnblogs.com/feffery/p/15928369.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技06」逐行监听Python程序的内存消耗)
 - [「Python实用秘技07」在pandas中实现自然顺序排序](https://www.cnblogs.com/feffery/p/16156984.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技07」在pandas中实现自然顺序排序)
+- [「Python实用秘技08」一行代码解析地址信息](https://www.cnblogs.com/feffery/p/16226067.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技08」一行代码解析地址信息)
