@@ -15,3 +15,5 @@
 - [「Python实用秘技08」一行代码解析地址信息](https://www.cnblogs.com/feffery/p/16226067.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技08」一行代码解析地址信息)
 - [「Python实用秘技09」更好用的函数运算缓存](https://www.cnblogs.com/feffery/p/16515158.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技09」更好用的函数运算缓存)
 - [「Python实用秘技10」深度比较Python对象间差异](https://www.cnblogs.com/feffery/p/16557188.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技10」深度比较Python对象间差异)
+- [「Python实用秘技11」在Python中利用ItsDangerous快捷实现数据加密](https://www.cnblogs.com/feffery/p/16886578.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技11」在Python中利用ItsDangerous快捷实现数据加密)
+
