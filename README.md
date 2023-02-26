@@ -17,4 +17,5 @@
 - [「Python实用秘技10」深度比较Python对象间差异](https://www.cnblogs.com/feffery/p/16557188.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技10」深度比较Python对象间差异)
 - [「Python实用秘技11」在Python中利用ItsDangerous快捷实现数据加密](https://www.cnblogs.com/feffery/p/16886578.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技11」在Python中利用ItsDangerous快捷实现数据加密)
 - [「Python实用秘技12」像导入模块一样导入ipynb文件](https://www.cnblogs.com/feffery/p/17047147.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技12」像导入模块一样导入ipynb文件)
+- [「Python实用秘技13」Python中临时文件的妙用](https://www.cnblogs.com/feffery/p/17157404.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技13」Python中临时文件的妙用)
 
