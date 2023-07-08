@@ -19,4 +19,4 @@
 - [「Python实用秘技12」像导入模块一样导入ipynb文件](https://www.cnblogs.com/feffery/p/17047147.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技12」像导入模块一样导入ipynb文件)
 - [「Python实用秘技13」Python中临时文件的妙用](https://www.cnblogs.com/feffery/p/17157404.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技13」Python中临时文件的妙用)
 - [「Python实用秘技14」快速优化Python导包顺序](https://www.cnblogs.com/feffery/p/17483380.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技14」快速优化Python导包顺序)
-
+- [pandas中基于范围条件进行表连接](https://www.cnblogs.com/feffery/p/17537401.html) 　:airplane:[仓库路径](./历史文章/「Python实用秘技15」pandas中基于范围条件进行表连接)
